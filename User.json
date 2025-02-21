@@ -3,18 +3,21 @@
     "id":1234,
     "name":"김 상언",
     "age" : 50,
-    "personalcolor":"green"
+    "personalcolor":"green",
+    "hobbies":["여행"]
   },
   {
     "id":1234,
     "name":"김 상민",
-    "age" : 50
+    "age" : 50,
+    "hobbies":["게임,노래"]
   },
   {
     "id":1234,
     "name":"김 양미",
     "age" : 50,
-    "personalcolor":"red"
+    "personalcolor":"red",
+    "hobbies":["노래,춤"]
   }, 
   {
     "id":1234,
