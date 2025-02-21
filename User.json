@@ -1,0 +1,25 @@
+[
+  {
+    "id":1234,
+    "name":"김 상언",
+    "age" : 50,
+    "personalcolor":"green"
+  },
+  {
+    "id":1234,
+    "name":"김 상민",
+    "age" : 50
+  },
+  {
+    "id":1234,
+    "name":"김 양미",
+    "age" : 50,
+    "personalcolor":"red"
+  }, 
+  {
+    "id":1234,
+    "name":"김 만호",
+    "age" : 50,
+    "personalcolor":"skyblue"
+  },
+]
